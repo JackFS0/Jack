@@ -2,10 +2,33 @@ html {
   height: 100%;
   width: 100%;
 }
+li {
+  list-style: none;
+}
 
 section {
   color: green;}
 
 .content-section{
+  
   color:black;
+}
+
+
+body {
+  background-image: url('');
+}
+
+.menu-list{
+  display: flex;
+}
+
+.menu-list-items{
+  margin: 30px;
+}
+body{font-family: cursive;}
+header{font-size: 150%}
+
+header{
+  border-color: red;
 }
